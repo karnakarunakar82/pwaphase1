@@ -1,0 +1,43 @@
+{
+  "profile":{
+    "image":"images/CF000387.jpg",
+    "name":"Name:karunakar",
+    "designation":"Desig:student",
+  "Mobile":"Contact:7780689244",
+  "email":"email:karnakarunakar82@gmail.com"
+},
+"Career":{
+  "info":" HTML to define the content of web pages"
+},
+"EducationalDeatils":
+[{
+
+  "Degree":"B.Tech",
+  "Institute":"Madanapalle Instituteof Technology and Scinece",
+  "percentage":"8.9",
+  "yop":"2021"
+
+},
+{
+  "Degree":"XII",
+  "Institute":"Sri chaitanya junior college",
+  "percentage":"9.5",
+  "year of passing":"2017"
+},
+{
+  "Degree":"X",
+  "Institute":"Siddartha high school",
+  "percentage":"8.9",
+  "year of passing":"2015"
+}
+],
+"Skills":[{
+  "Name":"web Technologies",
+  "info":["html","CSS","JS"]
+},
+{
+  "Name":"Database",
+  "info":["jdbc","dbms","sql","mysql"]
+}
+]
+}
